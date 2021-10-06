@@ -9,7 +9,10 @@
       "population": "4,906",
       "temperature" : "28.8 ˚C",
       "image": "https://en.wikipedia.org/wiki/Avarua#/media/File:Avarua,_february_2006.jpg",
-      "location": 21°12′25″S 159°46′15″W
+      "location": [
+        -21.206944,
+        -159.770833
+      ]
     },
     {
       "id": 2,
@@ -20,7 +23,10 @@
       "population": "13,007",
       "temperature" : "28˚C",
       "image": "https://en.wikipedia.org/wiki/Rarotonga#/media/File:CookIslands-Rarotonga-TeManga-mgl20030609-01.jpg",
-      "location": 21.235°S 159.778°W
+      "location": [
+        -24.916667,
+        -159.116667
+      ]
     },
     {
       "id": 3,
@@ -31,7 +37,10 @@
       "population": "226",
       "temperature" : "28˚C",
       "image": "https://en.wikipedia.org/wiki/Penrhyn_atoll#/media/File:Penrhyn_Aerial_EFS_1280.jpg",
-      "location": 9°00′20″S 157°58′10″W
+      "location":[
+        -9.005556,
+        -157.969444
+      ]
     },
     {
       "id": 4,
@@ -42,7 +51,10 @@
       "population": "83",
       "temperature" : "31˚C",
       "image": "https://en.wikipedia.org/wiki/Rakahanga#/media/File:ISS002-E-10047rakahanga.jpg",
-      "location": 10°02′S 161°05′W
+      "location": [
+        -10.033333,
+        -161.083333
+      ]
     },
     {
       "id": 5,
@@ -53,7 +65,10 @@
       "population": "212",
       "temperature" : "27˚C",
       "image": "https://en.wikipedia.org/wiki/Manihiki#/media/File:Manihiki_Aerial.jpg",
-      "location": 10°24′S 161°00′W
+      "location": [
+        -10.4,
+        -161
+      ]
     },
     {
       "id": 6,
@@ -64,7 +79,10 @@
       "population": "425",
       "temperature" : "28˚C",
       "image": "https://en.wikipedia.org/wiki/Pukapuka#/media/File:Pukapuka_Aerial_efs_1280.jpg",
-      "location": 10°53′00″S 165°51′00″W
+      "location": [
+        -10.883333,
+        -165.85
+      ]
     },
     {
       "id": 7,
@@ -75,7 +93,10 @@
       "population": "78",
       "temperature" : "31˚C",
       "image": "https://en.wikipedia.org/wiki/Nassau_(Cook_Islands)#/media/File:Nassau,_Cook_Islands.jpg",
-      "location": 11°34′4″S 165°24′25″W
+      "location": [
+        -11.567778,
+        -165.406944
+      ]
     },
     {
       "id": 8,
@@ -86,7 +107,10 @@
       "population": "2",
       "temperature" : "31˚C",
       "image": "https://en.wikipedia.org/wiki/Suwarrow#/media/File:Suwarrow-WorldWind.png",
-      "location": 13°16′9″S 163°6′41″W
+      "location": [
+        -13.269167,
+        -163.111389
+      ]
     },
     {
       "id": 9,
@@ -108,7 +132,10 @@
       "population": "1,712",
       "temperature" : "28˚C",
       "image": "https://en.wikipedia.org/wiki/Aitutaki#/media/File:Aitutaki_Beach_by_Nick_Longrich.jpg",
-      "location": 18.85°S 159.79°W
+      "location": [
+        -18.066667,
+        -163.166667
+      ]
     },
     {
       "id": 11,
@@ -119,7 +146,10 @@
       "population": "434",
       "temperature" : "28˚C",
       "image": "https://en.wikipedia.org/wiki/Atiu#/media/File:Lake_Tiroto.jpgjpg",
-      "location": 19°59′S 158°07′W
+      "location": [
+        -19.983333,
+        -158.116667
+      ]
     },
     {
       "id": 12,
@@ -130,7 +160,10 @@
       "population": "155",
       "temperature" : "29˚C",
       "image": "https://en.wikipedia.org/wiki/Mitiaro#/media/File:Mitiaro_Aerial.jpg",
-      "location": 19°52′S 157°42′W
+      "location": [
+        -19.866667,
+        -157.7
+      ]
     }
   ]
 }

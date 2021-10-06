@@ -1,0 +1,136 @@
+{
+  "pois": [
+    {
+      "id": 1,
+      "name": "Avarua",
+      "description": "Is the national capital of the Cook Islands",
+      "info":"Avarua (meaning \"Two Harbours\" in Cook Islands Māori) is a town and district in the north of the island of Rarotonga, and is the national capital of the Cook Islands. The town is served by Rarotonga International Airport (IATA Airport Code: RAR) and Avatiu Harbour.",
+      "score": "4.5",
+      "population": "4,906",
+      "temperature" : "28.8 ˚C",
+      "image": "https://en.wikipedia.org/wiki/Avarua#/media/File:Avarua,_february_2006.jpg",
+      "location": 21°12′25″S 159°46′15″W
+    },
+    {
+      "id": 2,
+      "name": "Rarotonga",
+      "description": "Rarotonga is the largest and most populous of the Cook Islands",
+      "info":"The island is volcanic, with an area of 67.39 km2 (26.02 sq mi), and is home to almost 75% of the country's population, with 13,007 of a total population of 17,434.[1] The Cook Islands' Parliament buildings and international airport are on Rarotonga. Rarotonga is a very popular tourist destination with many resorts, hotels and motels. The chief town, Avarua, on the north coast, is the capital of the Cook Islands. Captain John Dibbs, master of the colonial brig Endeavour, is credited as the European discoverer on 25 July 1823, while transporting the missionary Reverend John Williams.",
+      "score": "4.5",
+      "population": "13,007",
+      "temperature" : "28˚C",
+      "image": "https://en.wikipedia.org/wiki/Rarotonga#/media/File:CookIslands-Rarotonga-TeManga-mgl20030609-01.jpg",
+      "location": 21.235°S 159.778°W
+    },
+    {
+      "id": 3,
+      "name": "Penrhyn",
+      "description": "Is an atoll in the northern group of the Cook Islands in the south Pacific Ocean",
+      "info":"The northernmost island in the group, it is located at 1,365 km (848 mi) north-north-east of the capital island of Rarotonga, 9 degrees south of the equator. Its nearest neighbours are Rakahanga, and Manihiki, approximately 350 kilometres (220 mi) to the southwest. Once one of the most heavily populated atolls, it was almost completely depopulated by Peruvian slavers in 1864.",
+      "score": "4.0",
+      "population": "226",
+      "temperature" : "28˚C",
+      "image": "https://en.wikipedia.org/wiki/Penrhyn_atoll#/media/File:Penrhyn_Aerial_EFS_1280.jpg",
+      "location": 9°00′20″S 157°58′10″W
+    },
+    {
+      "id": 4,
+      "name": "Rakahanga",
+      "description": "is part of the Cook Islands, situated in the central-southern Pacific Ocean",
+      "info":"The unspoilt atoll is 1,248 kilometres (775 miles) from the Cook Islands' capital, Rarotonga, and lies 1,111 kilometres (690 miles) south of the equator. Its nearest neighbour is Manihiki which is just 44 kilometres (27 miles) away. Rakahanga's area is 4 square kilometres (1.5 sq mi). Its highest point is approximately 5 metres above sea level. The population was 83 in the 2016 Census of Population & Dwellings. Since 2014 Rakahanga's power has been 100% solar generated. The Rakahanga-Manihiki language differs from Cook Islands Maori.",
+      "score": "4.0",
+      "population": "83",
+      "temperature" : "31˚C",
+      "image": "https://en.wikipedia.org/wiki/Rakahanga#/media/File:ISS002-E-10047rakahanga.jpg",
+      "location": 10°02′S 161°05′W
+    },
+    {
+      "id": 5,
+      "name": "Manihiki",
+      "description": "Is an atoll in the northern group of the Cook Islands known informally as the \"Island of Pearls\"",
+      "info":"It is located in the Northern Cook Island chain, approximately 1,299 kilometres (807 mi) north of the capital island of Rarotonga, making it one of the most remote inhabitations in the Pacific Ocean. Its name has two possible meanings: It's believed that the original name of the island was Manuhiki, inspired by the aboriginal discovers Manu coming from the word Rua Manu (a kind of canoe) and Hiki meaning ashore, so the literal translation would be canoe carried ashore. The second interpretation is that the original discoverers were from Manihi, an island in Tuamotus, so the name of the island would mean Little Manihi.",
+      "score": "4.5",
+      "population": "212",
+      "temperature" : "27˚C",
+      "image": "https://en.wikipedia.org/wiki/Manihiki#/media/File:Manihiki_Aerial.jpg",
+      "location": 10°24′S 161°00′W
+    },
+    {
+      "id": 6,
+      "name": "Pukapuka",
+      "description": "Formerly Danger Island, is a coral atoll in the northern group of the Cook Islands in the Pacific Ocean",
+      "info":"It is one of most remote islands of the Cook Islands, situated about 1,140 kilometres (708 miles) northwest of Rarotonga. On this small island, an ancient culture and distinct language has been maintained over many centuries. The traditional name for the atoll is Te Ulu-o-Te-Watu ('the head of the stone'), and the northern islet where the people normally reside is affectionately known as Wale ('Home').",
+      "score": "4.5",
+      "population": "425",
+      "temperature" : "28˚C",
+      "image": "https://en.wikipedia.org/wiki/Pukapuka#/media/File:Pukapuka_Aerial_efs_1280.jpg",
+      "location": 10°53′00″S 165°51′00″W
+    },
+    {
+      "id": 7,
+      "name": "Nassau",
+      "description": "Is an island in the northern group of the Cook Islands",
+      "info":"It is approximately 1,246 kilometres (774 mi) north of the capital island of Rarotonga and 88 kilometres (55 mi) from Pukapuka. Lacking an airstrip, it is accessible only by boat. It is named after a 19th-century whaling ship. Its indigenous name, Te Nuku-o-Ngalewu, means \"Land of Ngalewu\" after the Pukapukan who was put in charge of it.",
+      "score": "4.5",
+      "population": "78",
+      "temperature" : "31˚C",
+      "image": "https://en.wikipedia.org/wiki/Nassau_(Cook_Islands)#/media/File:Nassau,_Cook_Islands.jpg",
+      "location": 11°34′4″S 165°24′25″W
+    },
+    {
+      "id": 8,
+      "name": "Suwarrow",
+      "description": "Is an island in the northern group of the Cook Islands in the south Pacific Ocean",
+      "info": "Suwarrow (also called Suvorov, Suvarou, or Suvarov) is an island in the northern group of the Cook Islands in the south Pacific Ocean. It is about 1,300 kilometres (810 mi) south of the equator and 930 kilometres (580 mi) north-northwest of the capital island of Rarotonga.",
+      "score": "4.5",
+      "population": "2",
+      "temperature" : "31˚C",
+      "image": "https://en.wikipedia.org/wiki/Suwarrow#/media/File:Suwarrow-WorldWind.png",
+      "location": 13°16′9″S 163°6′41″W
+    },
+    {
+      "id": 9,
+      "name": "Palmerston Island",
+      "description": "Is a coral atoll in the Cook Islands in the Pacific Ocean",
+      "info": "Palmerston Island is a coral atoll in the Cook Islands in the Pacific Ocean about 310 miles (500 km) northwest of Rarotonga.[1] James Cook landed there on 16 June 1774",
+      "score": "4.5",
+      "population": "57",
+      "temperature" : "31˚C",
+      "image": "https://en.wikipedia.org/wiki/Palmerston_Island#/media/File:Palmerston_ISS006.jpg",
+      "location": 18°04′S 163°10′W
+    },
+    {
+      "id": 10,
+      "name": "Aitutaki",
+      "description": "Is the second most-populated island in the Cook Islands, after Rarotonga",
+      "info": "Aitutaki, also traditionally known as Araʻura and Utataki, is the second most-populated island in the Cook Islands, after Rarotonga. It is an \"almost atoll\", with fifteen islets in a lagoon adjacent to the main island. Total land area is 18.05 km2 (6.97 sq mi), and the lagoon has an area of between 50 and 74 km2 (19 and 29 sq mi). A major tourist destination, Aitutaki is the second most visited island of the Cook Islands.",
+      "score": "4.0",
+      "population": "1,712",
+      "temperature" : "28˚C",
+      "image": "https://en.wikipedia.org/wiki/Aitutaki#/media/File:Aitutaki_Beach_by_Nick_Longrich.jpg",
+      "location": 18.85°S 159.79°W
+    },
+    {
+      "id": 11,
+      "name": "Atiu",
+      "description": "Also known as Enuamanu",
+      "info": "Is an island of the Cook Islands archipelago, lying in the central-southern Pacific Ocean. Part of the Nga-pu-Toru, it is 214 km (133 mi) northeast of Rarotonga. The island's population has dropped by two-thirds in the last 50 years.",
+      "score": "4.0",
+      "population": "434",
+      "temperature" : "28˚C",
+      "image": "https://en.wikipedia.org/wiki/Atiu#/media/File:Lake_Tiroto.jpgjpg",
+      "location": 19°59′S 158°07′W
+    },
+    {
+      "id": 12,
+      "name": "Mitiaro",
+      "description": "The fourth island in the Cook Islands group, is of volcanic origin",
+      "info": "Mitiaro, also known as Nukuroa, is part of the Nga-Pu-Toru island group formerly, a volcano that became a coral atoll. The coral died forming fossilised coral (known locally as makatea).[1] The island is surrounded by a belt of this makatea, between 20 and 40 feet (6.1 and 12.2 metres) high and characteristic of islands in the southern group. The centre of the island is almost flat, quite swampy and contains two freshwater lakes, Rotonui (big lake) and Toto Iti (small lake).",
+      "score": "4.0",
+      "population": "155",
+      "temperature" : "29˚C",
+      "image": "https://en.wikipedia.org/wiki/Mitiaro#/media/File:Mitiaro_Aerial.jpg",
+      "location": 19°52′S 157°42′W
+    }
+  ]
+}

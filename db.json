@@ -121,7 +121,10 @@
       "population": "57",
       "temperature" : "31˚C",
       "image": "https://en.wikipedia.org/wiki/Palmerston_Island#/media/File:Palmerston_ISS006.jpg",
-      "location": 18°04′S 163°10′W
+      "location": [
+        -18.066667,
+        -163.166667
+      ]
     },
     {
       "id": 10,
@@ -133,8 +136,13 @@
       "temperature" : "28˚C",
       "image": "https://en.wikipedia.org/wiki/Aitutaki#/media/File:Aitutaki_Beach_by_Nick_Longrich.jpg",
       "location": [
+<<<<<<< HEAD
+        -18.85,
+        -159.79
+=======
         -18.066667,
         -163.166667
+>>>>>>> 7b85020403f3caa2f1fa05acb7ab5e5b623e0e19
       ]
     },
     {
